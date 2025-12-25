@@ -38,5 +38,3 @@ This application is ideal for learning **Java Web Development**, **JPA**, and **
 - Role-based module separation (Admin & User)
 - Applying **MVC architecture** in real projects
 
-## 🧱 Architecture
-
